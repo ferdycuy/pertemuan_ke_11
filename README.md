@@ -1,19 +1,20 @@
-# Tugas Pratikum
+## Tugas Pratikum
 
 - Buat program sederhana dengan mengaplikasikan penggunaan fungsi
   yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
-  • Fungsi tambah() untuk menambah data
-  • Fungsi tapilkan() untuk menampilkan data
-  • Fungsi hapus(nama) untuk menghapus data berdasarkan nama
-  • Fungsi ubah(nama) untuk mengubah data berdasarkan nama
+- Fungsi tambah() untuk menambah data
+- Fungsi tapilkan() untuk menampilkan data
+- Fungsi hapus(nama) untuk menghapus data berdasarkan nama
+- Fungsi ubah(nama) untuk mengubah data berdasarkan nama
   
   - Flowchart
   
   ![flowchart](https://user-images.githubusercontent.com/115714443/205926673-720b7582-92c5-4edf-a612-343f7a68abc0.png)
   
-  - code
+  ### code
   
-  ```dataMahasiswa = {}
+  ```
+  dataMahasiswa = {}
 
 print("=" * 65)
 print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI\t|")
