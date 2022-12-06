@@ -134,5 +134,5 @@ while True:
 - 3. Fungsi hapus(nama) untuk menghapus data berdasarkan nama
 - 4. Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 
-- ![Screenshot (60)](https://user-images.githubusercontent.com/115714443/205928874-e9617b7a-b918-47f5-ba53-4bc1b547820d.png)
+ ![Screenshot (60)](https://user-images.githubusercontent.com/115714443/205928874-e9617b7a-b918-47f5-ba53-4bc1b547820d.png)
 
