@@ -13,8 +13,7 @@
   
   ### code
   
-  ```
-dataMahasiswa = {}
+```dataMahasiswa = {}
 print("=" * 65)
 print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI\t|")
 print("=" * 65)
@@ -65,7 +64,6 @@ def ubah(nama):
         print("\nDATA BERHASIL DI UBAH!")
     else:
         print("\DATA TIDAK DITEMUKAN!")
-
 
 while True:
     data = input(
