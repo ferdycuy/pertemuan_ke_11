@@ -1,3 +1,8 @@
+## Latihan 1
+
+![Screenshot (59)](https://user-images.githubusercontent.com/115714443/205929156-7cad39df-3e12-4eb1-957a-d360608bd1dc.png)
+
+
 ## Tugas Pratikum
 
 - Buat program sederhana dengan mengaplikasikan penggunaan fungsi
@@ -99,3 +104,13 @@ while True:
     else:
         print("YANG ANDA CARI TIDAK ADA!")
         ```
+        
+### Penjelasan
+        
+- 1. Fungsi tambah() untuk menambah data
+- 2. Fungsi tapilkan() untuk menampilkan data
+- 3. Fungsi hapus(nama) untuk menghapus data berdasarkan nama
+- 4. Fungsi ubah(nama) untuk mengubah data berdasarkan nama
+
+- ![Screenshot (60)](https://user-images.githubusercontent.com/115714443/205928874-e9617b7a-b918-47f5-ba53-4bc1b547820d.png)
+
