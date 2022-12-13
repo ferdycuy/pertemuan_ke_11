@@ -127,7 +127,7 @@ while True:
         print("YANG ANDA CARI TIDAK ADA!")
   ```
         
-     ![Screenshot (68)](https://user-images.githubusercontent.com/115714443/207387037-35b386cf-d0f3-4c3a-9741-8b925a544e19.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/115714443/207387037-35b386cf-d0f3-4c3a-9741-8b925a544e19.png)
 ![Screenshot (69)](https://user-images.githubusercontent.com/115714443/207387058-5f06a287-20f1-488a-85d3-aacbba90e6c4.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/115714443/207387073-d01075a8-5bbb-4ef6-9d69-bb347af83a4e.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/115714443/207387090-4c28a4ac-af2e-465a-876c-0f0224614213.png)
